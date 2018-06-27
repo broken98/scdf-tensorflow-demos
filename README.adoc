@@ -2,7 +2,8 @@
 
 == Perquisites
 * Install Docker: https://www.docker.com/community-edition
-NOTE: Make sure to increase the memory limits to at least 4G:
+
+NOTE: Make sure to increase the memory limits to at least 4G
 
 == Quick Start
 
