@@ -12,7 +12,6 @@ NOTE: Make sure to increase the memory limits to at least 4G
 ----
 git clone https://github.com/tzolov/scdf-tensorflow-demos.git
 cd ./scdf-tensorflow-demos
-DATAFLOW_VERSION=latest docker-compose up
 ----
 
 * From within `scdf-tensorflow-demos` run:
