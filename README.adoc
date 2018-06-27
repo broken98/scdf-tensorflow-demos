@@ -1,13 +1,12 @@
 = SCDF Tensorflow Demos
 
-== Quick Start
-
-* Install Docker: https://www.docker.com/community-edition 
-
+== Perquisites
+* Install Docker: https://www.docker.com/community-edition
 NOTE: Make sure to increase the memory limits to at least 4G:
 
-* Checkout the SCDF environment:
+== Quick Start
 
+* Checkout the SCDF environment:
 [source,bash]
 ----
 git clone https://github.com/tzolov/scdf-tensorflow-demos.git
